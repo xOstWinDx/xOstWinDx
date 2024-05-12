@@ -17,13 +17,12 @@
 - **[TradEND](https://github.com/xOstWinDx/TradEND)** Сервис для просмотра трейдовых операций.
 - **[Tsvetodom](https://github.com/xOstWinDx/Tsvetodom)** Сайт с небольшой базой для магазина цветов.
 - **[ArchUt](https://github.com/xOstWinDx/ArchUt)** Программа для отслеживание логов игры Archeage.
+
 ## Связаться со мной
 - **Vk:** [xxostwindxx](https://vk.com/xxostwindxx)
 - **Telegram:** [OstWinDs](https://t.me/OstWinDs)
 - **Email:** Starobogatov.A@yandex.ru
 
-
 ## Мои достижения
-- **[Сертефикат по пайтон разработке](https://stepik.org/cert/2088848)**
-- **[Сертефикат по SQL](https://stepik.org/cert/2452810)**
-
+- **[Сертификат по Python разработке](https://stepik.org/cert/2088848)**
+- **[Сертификат по SQL](https://stepik.org/cert/2452810)**
