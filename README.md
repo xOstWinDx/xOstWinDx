@@ -14,7 +14,7 @@
 - **Настройка серверов:** SSH, SSL-сертификаты, деплой приложений
 
 ## Мои проекты
-- **[GroomStar](https://github.com/xOstWinDx/ArchUt)**:  Ваш любимый зоосалон 🐾. Используемые технологии: Python, Pydantic, FastAPI, Prometheus, Grafana, Radis, Loki, Celery
+- **[GroomStar](https://github.com/xOstWinDx/GroomStar)**:  Ваш любимый зоосалон 🐾. Используемые технологии: Python, Pydantic, FastAPI, Prometheus, Grafana, Radis, Loki, Celery
 - **[HoteLand](https://github.com/xOstWinDx/HoteLand)**: Сервис бронирования отелей. Используемые технологии: FastAPI, PostgreSQL, Docker.
 - **[TaskMaster-API](https://github.com/xOstWinDx/TaskMaster-API)**: Сервис на подобии Jira, менеджер задач. Используемые технологии: FastAPI, SQLAlchemy, Redis.
 - **[TradEND](https://github.com/xOstWinDx/TradEND)**: Сервис для просмотра трейдовых операций. Используемые технологии: FastAPI, PostgreSQL.
