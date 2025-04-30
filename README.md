@@ -1,69 +1,77 @@
-# Привет, я Алексей! 👋
+# Hi, I'm Alexey 👋
 
-## Обо мне
-Я Python-разработчик, увлеченный созданием эффективного и чистого кода. Моя страсть — решать сложные задачи, улучшать процессы разработки и внедрять инновации.
+I'm a Python backend developer with 2+ years of experience, focused on building clean, scalable, and product-oriented backend systems.
 
-Я стремлюсь к постоянному профессиональному развитию и люблю делиться своими знаниями с другими. В будущем хочу стать ведущим специалистом в области backend-разработки и DevOps.
+While I have strong experience in data pipelines, integrations, and marketplace automation, my main interest lies in **developing full-featured backend architectures** that bring real value to users and teams.
 
-## Мои навыки
+I enjoy working with modern tools like **FastAPI**, **Django**, and **Docker**, and I’m always looking to contribute to meaningful products.
 
-### Языки программирования
-- 🐍 **Python**
+---
 
-### Фреймворки и библиотеки
-- 🚀 **FastAPI**, **SQLAlchemy**, **FastStream**
-- 🧰 **Pydantic**, **Gunicorn**, **Alembic**, **Jinja2**, **Celery**, **Sentry**
+## 🛠️ Tech Stack
 
-### Базы данных
-- 🗃️ **PostgreSQL**, **SQLite**, **Redis**, **ElasticSearch**
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 
-### Инструменты и технологии
-- 🐳 **Docker**, **Git**, **Jira**, **SCRUM**, **S3**, **Nginx**
-- 🔒 **SSH**, **SSL-сертификаты**, **деплой приложений**
+**Frameworks & Tools:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![aiohttp](https://img.shields.io/badge/Aiohttp-808080?style=flat&logo=python&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 
-### Тестирование
-- ✅ **PyTest**
+**Databases & Messaging:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-### Мониторинг и логирование
-- 📊 **Grafana**, **Grafana Loki**, **Prometheus**, **Promtail**
+**Cloud & DevOps:**  
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## Мои проекты
+**Monitoring & Observability:**  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-0D1117?style=flat&logo=grafana&logoColor=green)
 
-- **[GroomStar](https://github.com/xOstWinDx/GroomStar)**:  
-  Ваш любимый зоосалон 🐾.  
-  **Используемые технологии**: Python, Pydantic, FastAPI, Prometheus, Grafana, Redis, Loki, Celery.  
-  **Описание**: Сервис для управления записью и обслуживанием в зоосалонах, включая функционал мониторинга и логирования.
+**APIs & AI Services:**  
+Worked with various third-party APIs like **OpenAI**, **Leonardo.Ai**, **Wildberries**, and **Ozon**, focusing on integrations and orchestration when needed.
 
-- **[HoteLand](https://github.com/xOstWinDx/HoteLand)**:  
-  Сервис бронирования отелей.  
-  **Используемые технологии**: FastAPI, PostgreSQL, Docker.  
-  **Описание**: Платформа для бронирования отелей с поддержкой обработки заказов и управления базой данных.
+---
 
-- **[TaskMaster-API](https://github.com/xOstWinDx/TaskMaster-API)**:  
-  Менеджер задач наподобие Jira.  
-  **Используемые технологии**: FastAPI, SQLAlchemy, Redis.  
-  **Описание**: API для управления проектами и задачами, с поддержкой командной работы.
+## 🚀 Projects
 
-- **[TradEND](https://github.com/xOstWinDx/TradEND)**:  
-  Сервис для просмотра трейдовых операций.  
-  **Используемые технологии**: FastAPI, PostgreSQL.  
-  **Описание**: Приложение для отслеживания и анализа операций на финансовых рынках.
+Some selected pet projects (more available in private/internal repositories):
 
-- **[Tsvetodom](https://github.com/xOstWinDx/Tsvetodom)**:  
-  Сайт с базой для магазина цветов.  
-  **Используемые технологии**: Django, SQLite.  
-  **Описание**: Веб-сайт для магазина цветов с каталогом и системой управления заказами.
+- **[GroomStar](https://github.com/xOstWinDx/GroomStar)** — 🐾 Pet salon management system with monitoring and scheduling.
+- **[HoteLand](https://github.com/xOstWinDx/HoteLand)** — 🏨 Hotel booking backend with PostgreSQL and Docker.
+- **[TaskMaster-API](https://github.com/xOstWinDx/TaskMaster-API)** — 📋 Jira-style task manager with FastAPI and Redis.
+- **[TradEND](https://github.com/xOstWinDx/TradEND)** — 📈 Trading activity viewer for financial operations.
+- **[Tsvetodom](https://github.com/xOstWinDx/Tsvetodom)** — 🌸 E-commerce flower shop backend built on Django.
+- **[ArchUt](https://github.com/xOstWinDx/ArchUt)** — 🎮 Log tracker and parser for Archeage game activity.
 
-- **[ArchUt](https://github.com/xOstWinDx/ArchUt)**:  
-  Программа для отслеживания логов игры Archeage.  
-  **Используемые технологии**: Python, Pydantic.  
-  **Описание**: Утилита для анализа и управления логами игры Archeage.
+---
 
-## Связаться со мной
-- 🌐 **Vk:** [xxostwindxx](https://vk.com/xxostwindxx)
-- ✈️ **Telegram:** [OstWinDs](https://t.me/OstWinDs)
-- 📧 **Email:** Starobogatov.A@yandex.ru
+## 📊 GitHub Stats
 
-## Мои достижения
-- 🏆 **[Сертификат по Python разработке](https://stepik.org/cert/2088848)**
-- 🏅 **[Сертификат по SQL](https://stepik.org/cert/2452810)**
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xOstWinDx&show_icons=true&theme=tokyonight&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xOstWinDx&layout=compact&theme=tokyonight&hide_border=true"/> |
+|---|---|
+
+---
+
+## 📬 Contact Me
+
+[![Telegram](https://img.shields.io/badge/📨%20Telegram-%2300acee?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m/-ZlW2VJHZGE6)  
+_Prefer Telegram for quick responses._
+
+[![Email](https://img.shields.io/badge/Email-starobogatov.alexey@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starobogatov.alexey@gmail.com)
+
+---
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyprland-1a1a1a?style=for-the-badge&logo=wayland&logoColor=white"/>
+</p>
